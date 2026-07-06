@@ -98,6 +98,8 @@ Maintain product quality and customer service standards while investigating the 
 The analysis shows that the business performs strongly in specific product categories and regions, with noticeable seasonal sales patterns and positive customer feedback. Implementing the recommended strategies can help increase revenue, improve customer satisfaction, and support future business growth.
 
 ---
+## Most Surprising Finding
+The most surprising finding was that the Beleza Saude category generated the highest revenue while the majority of customers still gave 4-star and 5-star reviews. Additionally, sales peaked sharply in November 2017, highlighting the impact of seasonal demand. These findings emphasize the importance of inventory planning and targeted marketing during peak periods.
 
 ## Project Files
 
